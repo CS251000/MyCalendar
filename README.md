@@ -8,9 +8,4 @@ MyCalendar is a simple JavaScript project that allows users to create events and
 - **Task Management:** Keep track of tasks associated with each date.
 - **Responsive Design:** The calendar is designed to work seamlessly on various devices.
 
-## Getting Started
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/mycalendar.git
+Visit the link [MyCalendar]( https://cs251000.github.io/MyCalendar/)
